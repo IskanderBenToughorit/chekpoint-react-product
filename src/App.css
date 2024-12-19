@@ -1,0 +1,15 @@
+.container-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* 100% de la hauteur de la fenêtre */
+  
+}
+
+.card {
+  background-color: lightblue;
+  padding: 20px;
+  border-radius: 5px;
+  width: 350px;
+  height: 450px;
+}
